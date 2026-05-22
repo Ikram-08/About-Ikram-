@@ -77,15 +77,9 @@ For the full publication list, see my [[Google Scholar profile](https://scholar.
 - Innovation Labels for Deaf Assistant Friend Robot (DAFR) 
 - Participation in AI competitions and innovation forums, including Disrupt Constantine, Disrupt Algeria, Algeria International Fair, and FIF International Women Forum. 
 
-## Repository Ideas
+## Projects
 
-This profile is designed to grow with implementation repositories such as:
-
-- `tcn-ev-cybersecurity`: TCN models for EV charging station attack detection
-- `ocpp-security-ai`: OCPP security analysis with deep learning
-- `star-ris-uav-rl`: reinforcement learning for STAR-RIS-assisted UAV networks
-- `mec-iov-task-offloading`: intelligent task offloading and resource allocation for MEC and IoV
-- `digital-twin-edge-ai`: digital twin simulations for edge intelligence
+Implementation repositories related to my research are currently being prepared and will be added here soon.
 
 
 ## Education
@@ -109,7 +103,7 @@ I am open to research collaboration in AI for edge networks, vehicular systems, 
 
 - GitHub: https://github.com/Ikram-08
 - LinkedIn: [www.linkedin.com/in/ikram-benfarhat-a56142172](https://www.linkedin.com/in/ikram-benfarhat-a56142172) 
-- Google Scholar: [IKRAM Benfarhat](https://scholar.google.com/citations?hl=en&user=fry4wEIAAAAJ)
+- Google Scholar: [IKRAM Benfarhat](https://scholar.google.com/citations?hl=en&user=fry4wEIAAAAJ) 
 
 <p align="center">
   <a href="mailto:ikrambenfarhat49@gmail.com">Email</a> |
